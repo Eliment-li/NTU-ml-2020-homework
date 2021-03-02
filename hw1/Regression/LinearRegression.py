@@ -6,7 +6,6 @@ import pandas as pd
 # 由前 9 個小時的 18 個 features (包含 PM2.5)預測的 10 個小時的 PM2.5。文档
 # 参考 https://colab.research.google.com/drive/131sSqmrmWXfjFZ3jWSELl8cm0Ox5ah3C#scrollTo=p9FfatPz6MU3
 
-
 if __name__ == '__main__':
     # Load rain.csv
     data = pd.read_csv('d:/train.csv', encoding='big5')

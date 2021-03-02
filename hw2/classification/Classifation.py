@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+# Adagrad 测试
 x_data = [338., 333., 328., 207., 226., 25., 179., 60., 208., 606.]
 y_data = [640., 633., 619., 393., 428., 27., 193., 66., 226., 1591.]
 
